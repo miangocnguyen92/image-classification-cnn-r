@@ -28,9 +28,11 @@ Although this project is not directly related to Business Intelligence, it highl
 ## Example Output
 Below is an example of the model’s prediction visualization, showing where the model made incorrect classifications.
 
-[25 images grid] <img width="835" height="646" alt="image" src="https://github.com/user-attachments/assets/dbbc6176-cd20-4210-aa2f-087ae7131471" />
+[25 images grid] 
+<img width="835" height="646" alt="image" src="https://github.com/user-attachments/assets/dbbc6176-cd20-4210-aa2f-087ae7131471" />
 
-[Display true category and predicted category from the model for those 25 images] <img width="808" height="411" alt="image" src="https://github.com/user-attachments/assets/040c1850-fea7-4144-8ee4-ac91a5b65fb7" />
+[Display true category and predicted category from the model for those 25 images] 
+<img width="808" height="411" alt="image" src="https://github.com/user-attachments/assets/040c1850-fea7-4144-8ee4-ac91a5b65fb7" />
 
 ---
 
