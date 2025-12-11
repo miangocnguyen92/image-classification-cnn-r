@@ -1,7 +1,7 @@
 # Image Classification with Deep Learning in R
 
 This project explores deep learning concepts using **R** and **torch** to build a Convolutional Neural Network (CNN) that classifies images into different categories.  
-I trained the model on a dataset of **10,000 images**, then evaluated predictions and visualized misclassified results.
+I trained the model on a dataset of **60,000 images** (50,000 training set, 10,000 testing set), then evaluated predictions and visualized misclassified results.
 
 Although this project is not directly related to Business Intelligence, it highlights my curiosity and eagerness to learn advanced analytics and modern AI techniques — skills I bring into BI to enhance data understanding and insight generation.
 
